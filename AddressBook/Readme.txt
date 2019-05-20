@@ -1,0 +1,1 @@
+The application organizes a book of addresses by java design patterns.
